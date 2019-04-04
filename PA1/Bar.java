@@ -3,7 +3,6 @@
 // CS 455 PA1
 // Fall 2018
 
-// we included the import statements for you
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics2D;
